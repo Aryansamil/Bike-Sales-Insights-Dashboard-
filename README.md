@@ -1,8 +1,6 @@
 ## Simple Excel Project on Data Cleaning and Dashboard Creation
-### By Gino Freud D. Hobayan
 
 <img width="924" alt="Final Bike Sales Dashboard" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/d395f111-106f-467a-b2ec-415d2d899118">
-
 
 **Bike Sales Dashboard** 
 
@@ -10,7 +8,6 @@ Excel Project Dataset from Alex the Analyst Youtube Channel
 
 
 <br><br><br>
-
 
 
 # **1. Data Cleaning**
